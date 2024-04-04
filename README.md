@@ -5,3 +5,4 @@ week2 assignment -https://colab.research.google.com/drive/1TQlEWS2Xl-K1mIm5FTxGa
 ml assignment-1 https://colab.research.google.com/drive/10onMm2BU7rK3w9UxSVlvxM2e5DoRoZdc?usp=sharing
 week4 assignment-https://colab.research.google.com/drive/18K0jtYfKDR3T9eis_pXzER5oCcnuQD0c?usp=sharing
 week5 assignment-https://colab.research.google.com/drive/1wuR130uIDaxkE6E67rRcI67-9qQp4JG2?usp=sharing
+week6 assignment-https://colab.research.google.com/drive/1_FLoHQfPC4WuhOzqXhUtI56-G2FP-U4A?usp=sharing
